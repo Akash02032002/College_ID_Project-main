@@ -2,7 +2,7 @@
 _This project Deployed on Goerli Testnet_
 
 
-https://spheron.infura-ipfs.io/ipfs/
+https://spheron.mypinata.cloud/ipfs/QmSk9Sz6BgJx2Gogoqs9PndDbeXYdTCkWKLCjsWTVpk8fT
 just click on this link and see deployed web
 
 ## This Project is solved the problem of fack Identification of collge Students
