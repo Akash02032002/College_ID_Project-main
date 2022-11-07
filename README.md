@@ -5,7 +5,7 @@ _This project Deployed on Goerli Testnet_
 https://spheron.mypinata.cloud/ipfs/QmSk9Sz6BgJx2Gogoqs9PndDbeXYdTCkWKLCjsWTVpk8fT
 just click on this link and see deployed web
 
-## This Project is solved the problem of fack Identification of collge Students
+## This Project is solved the problem of fake Identification of college Students
 
 **Student can only see their identity but they can't issue their id card by your self**
 
