@@ -2,7 +2,7 @@
 _This project Deployed on Goerli Testnet_
 
 
-https://spheron.mypinata.cloud/ipfs/QmSk9Sz6BgJx2Gogoqs9PndDbeXYdTCkWKLCjsWTVpk8fT
+https://college-id-project-main-a9340a.spheron.app/
 just click on this link and see deployed web
 
 ## This Project is solved the problem of fake Identification of college Students
